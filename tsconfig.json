@@ -11,7 +11,7 @@
     "target": "es2015",
     "allowJs": true,
     "paths": {
-      "@/*": ["src/*"]
+      "@/*": [ "src/*" ]
     },
     "lib": ["es2015", "dom"]
   },
